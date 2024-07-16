@@ -15,8 +15,9 @@
     npm create vite@latest
     ```
 4. **Install Dependencies:**
-  ```
-  npm install
-  npm run dev
- ```
+     ```sh
+     npm install
+     npm run dev
+    ```
+
   
